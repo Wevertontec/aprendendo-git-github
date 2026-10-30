@@ -1,2 +1,3 @@
-# aprendendo git-github
-aprendendo git e github com o curso em video 
+# Aprendendo Git-Github
+Aprendendo Git e Github com o curso em video, e aprendendo a criar repositório.
+
